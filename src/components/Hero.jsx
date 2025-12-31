@@ -2,7 +2,7 @@ import { FaLinkedin, FaEnvelope, FaGithub } from 'react-icons/fa'
 import { BsArrowRight } from 'react-icons/bs'
 import './Hero.css'
 
-import profileImage from '../assets/profile_new.png'
+import profileImage from '../assets/karishma_profile.png'
 
 const Hero = () => {
     return (
